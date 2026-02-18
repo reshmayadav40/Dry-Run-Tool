@@ -1,0 +1,7 @@
+{
+  "name": "AI Flowchart Dry-Run Lab",
+  "description": "An advanced educational tool for students and teachers to design, visualize, and dry-run algorithms using AI-powered flowchart analysis and step-by-step execution simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
